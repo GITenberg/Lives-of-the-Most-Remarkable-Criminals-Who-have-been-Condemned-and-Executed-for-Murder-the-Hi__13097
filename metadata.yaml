@@ -1,0 +1,29 @@
+_repo: Lives-of-the-Most-Remarkable-Criminals-Who-have-been-Condemned-and-Executed-for-Murder-the-Hi__13097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hayward, Arthur Lawrence
+    birthdate: 1885
+    deathdate: 1967
+    gutenberg_agent_id: '4830'
+    url: http://www.gutenberg.org/2009/agents/4830
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2004-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Crime -- Great Britain'
+- !lcsh 'Criminals -- Great Britain -- Biography'
+title: Lives of the Most Remarkable Criminals Who have been Condemned and Executed
+  for Murder, the Highway, Housebreaking, Street Robberies, Coining or other offences
+url: http://www.gutenberg.org/ebooks/13097
